@@ -13,8 +13,9 @@
 | Highlight            | Const and reflection               |
 | Zulip channel        | [#goals/reflection](https://rust-lang.zulipchat.com/#narrow/channel/572285-goals.2Freflection) |
 | [compiler] champion  | @oli-obk                           |
-| [lang] champion      | @nikomatsakis                          |
+| [lang] champion      | @nikomatsakis                      |
 | [libs] champion      | @joshtriplett                      |
+| [types] champion     | @oli-obk                           |
 
 
 ## Summary
